@@ -1,1 +1,1 @@
-# ML-Portfolio
+Analyzing unemployment data using the Kaplan-Meier and the Cox Proportional Hazards models to identify significant factors affecting job finding and quantify the impact of these factors on employment success.
